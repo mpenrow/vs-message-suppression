@@ -19,3 +19,7 @@ https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rule
 https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/style-rules/ide0066
 ![SwitchExpression](UseSwitchExpression.png)
 <br>
+
+<h2 align='center'>More stuff for discussion</h2>
+
+- <b>Extension methods in separate class files</b>
